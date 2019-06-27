@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041613620470",
+    "firebase_url": "https://iossource-468cf.firebaseio.com",
+    "project_id": "iossource-468cf",
+    "storage_bucket": "iossource-468cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041613620470:android:79a733ed064b6f03",
+        "android_client_info": {
+          "package_name": "com.vumee.ios_source"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041613620470-gc324k4t81ceaoltt966fos45kpla529.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vumee.ios_source",
+            "certificate_hash": "6055951a0745569ea9a59f29572089fd113c56af"
+          }
+        },
+        {
+          "client_id": "1041613620470-fbcq2drvgo9rilik9h8ktaf0rbkjc4gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHe3GfR4_y6NzFznDSnVlrjib8tQwsyZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041613620470-fbcq2drvgo9rilik9h8ktaf0rbkjc4gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
